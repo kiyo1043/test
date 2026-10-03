@@ -1,0 +1,2 @@
+Hello from the GitHub integration test repository.
+If you can read this file, nested folder access works.
